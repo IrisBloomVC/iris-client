@@ -1,0 +1,21 @@
+{
+  "gitmoji.addCustomEmoji": [
+    {"emoji": "🐛",  "code": ":bug:", "description": "バグ修正"},
+    {"emoji": "👍",  "code": ":+1:", "description": "機能改善"},
+    {"emoji": "✨", "code":  ":sparkles:", "description": "部分的な機能追加"},
+    {"emoji": "🎨",  "code": ":art:", "description": "デザイン変更のみ"},
+    {"emoji": "💢",  "code": ":anger:", "description": "コンフリクト"},
+    {"emoji": "🚧",  "code": ":construction:", "description": "開発中"},
+    {"emoji": "📝",  "code": ":memo:", "description": "文言修正"},
+    {"emoji": "♻", "code": ":recycle:", "description": "リファクタリング"},
+    {"emoji": "🔥",  "code": ":fire:", "description": "不要な機能・使われなくなった機能の削除"},
+    {"emoji": "💚",  "code": ":green_heart:", "description": "テストやCIの修正・改善"},
+    {"emoji": "👕",  "code": ":shirt:", "description": "Lintエラーの修正やコードスタイルの修正"},
+    {"emoji": "🚀",  "code": ":rocket:", "description": "パフォーマンス改善"},
+    {"emoji": "🆙",  "code": ":up:", "description": "依存パッケージなどのアップデート"},
+    {"emoji": "👮",  "code": ":cop:", "description": "セキュリティ関連の改善"},
+    {"emoji": "⚙" , "code": ":gear:", "description": "config変更"},
+    {"emoji": "📚",  "code": ":books:", "description": "ドキュメント"}
+],
+"gitmoji.onlyUseCustomEmoji": true
+}
