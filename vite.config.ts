@@ -8,7 +8,8 @@ const projectRoot = __dirname
 export default defineConfig({
   root: path.resolve(projectRoot, "src"),
   build: {
-    outDir: path.resolve(projectRoot, "dist")
+    outDir: path.resolve(projectRoot, "dist"),
+    emptyOutDir: true,
   },
   plugins: [react()],
 })
