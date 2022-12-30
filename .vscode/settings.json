@@ -17,5 +17,8 @@
     {"emoji": "⚙" , "code": ":gear:", "description": "config変更"},
     {"emoji": "📚",  "code": ":books:", "description": "ドキュメント"}
 ],
-"gitmoji.onlyUseCustomEmoji": true
+"gitmoji.onlyUseCustomEmoji": true,
+"cSpell.words": [
+  "Chakra"
+]
 }
