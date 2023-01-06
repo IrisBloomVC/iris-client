@@ -1,6 +1,3 @@
-import { atom } from "recoil"
+import { atom } from "jotai";
 
-export const countAtom = atom({
-  key: "count",
-  default: 0,
-})
+export const countAtom = atom(0)
